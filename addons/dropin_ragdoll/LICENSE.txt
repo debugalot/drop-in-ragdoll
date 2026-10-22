@@ -1,0 +1,9 @@
+Drop-In Ragdoll - license
+
+You may use this add-on in any number of your own projects, free or commercial, and ship it inside
+the games and apps you make with it. You may change it for those projects.
+
+You may not resell or redistribute the add-on itself, changed or unchanged, as an asset, template or
+tool, or publish its source.
+
+The add-on is provided as is, without warranty of any kind.
