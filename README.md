@@ -3,6 +3,7 @@
 [![ExcaliBug](https://img.shields.io/badge/Website-ExcaliBug.com-F4B544?style=flat-square)](https://excalibug.com/addons/drop-in-ragdoll/)
 [![Godot 4.7](https://img.shields.io/badge/Godot-4.7-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org)
 [![itch.io](https://img.shields.io/badge/itch.io-Drop--In%20Ragdoll-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://debugalot.itch.io/drop-in-ragdoll)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/debugalot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-43D1C6?style=flat-square)](LICENSE)
 
 A ragdoll for any humanoid `Skeleton3D` in Godot 4. Add one node under the skeleton, call
@@ -181,6 +182,10 @@ and get-up loop. The exit code is 0 when everything passes.
 
 `tests/capture.tscn` runs the demo in a window and saves screenshots
 (`-- --out=<folder>`, add `--close` for a close-up of one knight falling and getting up).
+
+## Support
+
+If Drop-In Ragdoll saved you time or a headache, consider [buying me a coffee on Ko-fi](https://ko-fi.com/debugalot) or checking out more Godot tools on [ExcaliBug](https://excalibug.com).
 
 ## Credits
 
